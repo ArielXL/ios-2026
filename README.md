@@ -30,6 +30,10 @@ Aplicación simple para gestionar recordatorios o tareas pendientes.
 - Actualización dinámica de la interfaz cuando cambia la información.
 - Ejemplo práctico del manejo de datos dentro de la aplicación.
 
+### 3. CV
+
+Aplicación simple del CV.
+
 ## Tecnologías utilizadas
 
 - **Swift**
